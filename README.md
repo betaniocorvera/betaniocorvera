@@ -1,4 +1,5 @@
-<img width="734" height="336" alt="download (10)" src="https://github.com/user-attachments/assets/611a6d74-55f7-43a7-8089-69e2144fd8e3" />
+<img width="736" height="414" alt="download (11)" src="https://github.com/user-attachments/assets/4b966b63-5bfc-418f-9233-4afb49d6ec4e" />
+
 
 <h1>Hi 👋, I'm Marne Betanio</h1>
 <p>IT student passionate about learning and building with code. Always exploring new technologies and improving my skills.</p>
