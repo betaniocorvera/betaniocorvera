@@ -1,5 +1,4 @@
 <img width="735" height="245" alt="1095922890602233957" src="https://github.com/user-attachments/assets/cb0e6425-2283-4774-9739-79d784b99404" />
-<img width="736" height="368" alt="ALZiMi on Twitter" src="https://github.com/user-attachments/assets/cd22f0df-f510-45b2-9f40-5ac67adf3297" />
 
 
 
